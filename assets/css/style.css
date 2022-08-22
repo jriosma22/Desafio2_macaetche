@@ -3,7 +3,7 @@
     width: 80%;
     margin: auto;
     font-size: 2em;
-    background-image: url(/assets/imgs/header.jpg);
+    background-image: url(../imgs/header.jpg);
     background-size: cover;
     background-position: center;
     color:black;
@@ -49,6 +49,7 @@ p{
 i{
     color: black;
 }
+/*
 tr{
     float: left;
     width: 30%;
@@ -58,6 +59,8 @@ tr{
     text-align: center;
 
 }
+
 menu{
     display: flow-root;
 }
+*/
